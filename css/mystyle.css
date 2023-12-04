@@ -1,0 +1,23 @@
+header{
+    display: flex;
+    justify-content: center;
+    background-color: darkslategray;
+    color: white;
+}
+.group1{
+    display: flex;
+    justify-content: space-around;
+    background-color: gray;
+    color: white;
+}
+.group2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.group3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
